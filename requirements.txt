@@ -1,0 +1,10 @@
+ scikit-multilearn
+ scikit-learn
+ pyresparser
+ spacy
+ pdfminer.six
+ fuzzywuzzy
+ PyPDF2
+ pdfplumber
+ tensorflow
+ streamlit
